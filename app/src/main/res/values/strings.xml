@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnchetaEivanLab5</string>
+    <string name="mem3">"Mandaluyong Executive Mansion 3"</string>
+    <string name="mem3Location">"Location : G.Enriquez St., Barangay Vergara, Mandaluyong City"</string>
+    <string name="distanceFromUst">Distance from UST : 6.5 Kilometers</string>
+
+    <string name="rizalPark">"Rizal Park"</string>
+    <string name="location_rizal_park">Location: Roxas Blvd, Malate, Manila, 1000 Metro Manila</string>
+    <string name="distanceFromUst2">Distance from UST : 60 Kilometers</string>
+</resources>
